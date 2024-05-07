@@ -33,7 +33,7 @@ Substitua `<caminho_para_imagem>` pelo caminho para a imagem que você deseja co
 ## Exemplo
 
 ```sh
-node converter.js mona_lisa.jpg 3
+node index.js mona_lisa.jpg 3
 ```
 
 Este comando irá converter a imagem `mona_lisa.jpg` com uma escala de 3 e salvar o resultado em `output.txt`.
